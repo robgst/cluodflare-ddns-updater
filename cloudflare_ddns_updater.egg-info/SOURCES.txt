@@ -1,0 +1,15 @@
+LICENCE
+MANIFEST.in
+README.md
+setup.py
+cloudflare_ddns_updater/__init__.py
+cloudflare_ddns_updater/constants.py
+cloudflare_ddns_updater/initializer.py
+cloudflare_ddns_updater/ip_updater.py
+cloudflare_ddns_updater.egg-info/PKG-INFO
+cloudflare_ddns_updater.egg-info/SOURCES.txt
+cloudflare_ddns_updater.egg-info/dependency_links.txt
+cloudflare_ddns_updater.egg-info/entry_points.txt
+cloudflare_ddns_updater.egg-info/requires.txt
+cloudflare_ddns_updater.egg-info/top_level.txt
+tests/__init__.py

@@ -1,0 +1,3 @@
+[console_scripts]
+cloudflare-ddns-updater = cloudflare_ddns_updater.initializer:main
+ip-updater = cloudflare_ddns_updater.ip_updater:main
