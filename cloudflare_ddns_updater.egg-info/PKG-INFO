@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: cloudflare-ddns-updater
-Version: 1.0.1
+Version: 1.0.2
 Summary: A Python tool to update Cloudflare DNS automatically using DDNS.
-Home-page: https://github.com/yourusername/cloudflare-ddns-updater
+Home-page: https://github.com/robgst/cloudflare-ddns-updater
 Author: Roberto Giusti
 Author-email: rgiusti@gmail.com
 Classifier: Programming Language :: Python :: 3
